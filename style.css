@@ -2,3 +2,9 @@ header {
   background-color: grey;
   text-align: center;
 }
+nav {
+  list-style: none;
+  padding:0;
+  display:flex;
+  justifycontent: center;
+}
