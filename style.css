@@ -1,1 +1,5 @@
-
+header, footer {
+  background-color: mocha;
+  text-align: center;
+  color: white;
+}
